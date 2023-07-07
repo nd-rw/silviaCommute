@@ -10,7 +10,10 @@ display best route to work and home
   - 2 buttons, one for "ETA and best route HOME" other for "ETA and best route to WORK"
 
 ## hardware ideas
-- 1x20 VFD Display (noritake itron)  https://au.element14.com/noritake-itron/cu209-tw202a/vfd-module-1x20-9mm/dp/1216670
+- [1x20 VFD Display (noritake itron)](https://au.element14.com/noritake-itron/cu209-tw202a/vfd-module-1x20-9mm/dp/1216670)
   - pros: looks good and seems reliable
   - cons: expensive
   - relevant link maybe: https://www.smbaker.com/interfacing-a-vfd-display-to-the-raspberry-pi
+- [2x17 lcd display at jaycar](https://www.jaycar.com.au/duinotech-arduino-compatible-2-x-16-lcd-screen-display-with-controller/p/XC4454?pos=1&queryId=00d90b1908fadf730e9d34dca03c25ff)
+  - pros: cheap, probably easy to work with
+  - cons: looks crappy
