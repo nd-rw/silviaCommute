@@ -8,3 +8,8 @@ display best route to work and home
   - VF display for period-correctness long-term but simplest display possible short term
   - need to power from car and run script on pi as soon as it boots
   - 2 buttons, one for "ETA and best route HOME" other for "ETA and best route to WORK"
+
+## hardware ideas
+- 1x20 VFD Display (noritake itron)  https://au.element14.com/noritake-itron/cu209-tw202a/vfd-module-1x20-9mm/dp/1216670
+  - pros: looks good and seems reliable
+  - cons: expensive
