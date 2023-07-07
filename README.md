@@ -13,3 +13,4 @@ display best route to work and home
 - 1x20 VFD Display (noritake itron)  https://au.element14.com/noritake-itron/cu209-tw202a/vfd-module-1x20-9mm/dp/1216670
   - pros: looks good and seems reliable
   - cons: expensive
+  - relevant link maybe: https://www.smbaker.com/interfacing-a-vfd-display-to-the-raspberry-pi
